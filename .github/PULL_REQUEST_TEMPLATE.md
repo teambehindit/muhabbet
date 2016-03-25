@@ -1,1 +1,0 @@
-Closes #(insert issue number)
